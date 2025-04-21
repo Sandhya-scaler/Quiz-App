@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import SelectMode from './pages/SelectMode';
-import Quiz from './pages/Quiz';
-import Result from './pages/Result';
+import Home from './Pages/Home';
+import SelectMode from './Pages/SelectMode';
+import Quiz from './Pages/Quiz';
+import Result from './Pages/Result';
 
 function App() {
   
